@@ -13,6 +13,7 @@ body
     background: url(1.png) no-repeat;
     background-size: cover;
     background-position: center;
+    border: black 1px;
 }
 .wrapper
 {
@@ -115,4 +116,5 @@ body
 {
     text-decoration: underline;
     cursor: pointer;
+
 }
